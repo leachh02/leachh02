@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Harry!
-I'm in my 4th year of studying Engineering (Computer & Software Systems) at QUT, I also minor in both Robotics & Software Engineering.
+I'm in my 4th (and final) year of studying Engineering (Computer & Software Systems) at QUT, I also minor in both Robotics & Software Engineering.
 
 ##  🖥️ Tech I Use
 
